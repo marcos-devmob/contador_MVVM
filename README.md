@@ -26,7 +26,7 @@ O app possui um contador incrementável e decrementável, com interface moderna 
 ---
 
 ## Estrutura do Projeto
-
+```vbnet
 src/
 ├── main/
 │   ├── java/com/marcosalves/contadormvvm
@@ -45,7 +45,7 @@ src/
 │       └── MainActivity.kt
 ├── androidTest/
 └── test/
-
+```
 ---
 
 ## Como Rodar o Projeto
